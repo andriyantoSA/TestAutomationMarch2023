@@ -1,0 +1,8 @@
+#surefire_0
+#Sat Mar 18 11:52:25 WIB 2023
+user.dir=C\:\\Users\\inspi\\eclipse-workspace\\maret2023
+env=stage
+style.color=always
+basedir=C\:\\Users\\inspi\\eclipse-workspace\\maret2023
+suiteXmlFile=apitest.xml
+localRepository=C\:\\Users\\inspi\\.m2\\repository
